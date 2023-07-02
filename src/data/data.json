@@ -4,76 +4,87 @@
     "text": "Witcher 3: Wild Hunt",
     "description": "ou are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
     "price": "25$",
-    "img": "game-1.jpg"
+    "img": "game-1.jpg",
+    "category": "adventure"
   },
   {
     "id": "1",
     "text": "Witcher 2: Assasins of Kings",
     "description": "A time of untold chaos has come. Mighty forces clash behind the scenes in a struggle for power and influence. The Northern Kingdoms mobilize for war. But armies on the march are not enough to stop a bloody conspiracy...",
     "price": "10$",
-    "img": "game-2.jpg"
+    "img": "game-2.jpg",
+    "category": "adventure"
   },
   {
     "id": "2",
     "text": "Witcher: Enchanted Edition",
     "description": "Become The Witcher, Geralt of Rivia, a legendary monster slayer caught in a web of intrigue woven by forces vying for control of the world. Make difficult decisions and live with the consequences in a game that will immerse you in an extraordinary tale like no other.",
     "price": "5$",
-    "img": "game-3.jpg"
+    "img": "game-3.jpg",
+    "category": "adventure"
   },
   {
     "id": "3",
     "text": "Fifa 23",
     "description": "FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology, men’s and women’s FIFA World Cup™, women’s club teams, cross-play features**, and more.",
     "price": "35$",
-    "img": "game-4.jpg"
+    "img": "game-4.jpg",
+    "category": "sport"
   },
   {
     "id": "4",
     "text": "Forza Horizon 5",
     "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience. Requires Forza Horizon 5 game, expansion sold separately.",
     "price": "80$",
-    "img": "game-5.jpg"
+    "img": "game-5.jpg",
+    "category": "racing"
   },
   {
     "id": "5",
     "text": "Red Dead Redemption 2",
     "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online.",
     "price": "50$",
-    "img": "game-6.jpg"
+    "img": "game-6.jpg",
+    "category": "adventure"
   },
   {
     "id": "6",
     "text": "Grand Theft Auto V",
     "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
     "price": "40$",
-    "img": "game-7.jpg"
+    "img": "game-7.jpg",
+    "category": "action"
   },
   {
     "id": "7",
     "text": "Outlast 2",
     "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur",
     "price": "20$",
-    "img": "game-8.jpg"
+    "img": "game-8.jpg",
+    "category": "horror"
   },
   {
     "id": "8",
     "text": "Hearts of iron IV",
     "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
     "price": "15$",
-    "img": "game-9.jpg"
+    "img": "game-9.jpg",
+    "category": "strategy"
   },
   {
     "id": "9",
     "text": "Metro Exodus",
     "description": "Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the...",
     "price": "30$",
-    "img": "game-10.jpg"
+    "img": "game-10.jpg",
+    "category": "shooter"
   },
   {
     "id": "10",
     "text": "F1 23",
     "description": "Be the last to brake in EA SPORTS™ F1® 23, the official video game of the 2023 FIA Formula One World Championship™. A new chapter in the thrilling Braking Point story mode delivers high-speed drama and heated rivalries.",
     "price": "40$",
-    "img": "game-11.jpg"
+    "img": "game-11.jpg",
+    "category": "sport"
   }
 ]
